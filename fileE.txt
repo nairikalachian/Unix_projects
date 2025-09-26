@@ -1,1 +1,2 @@
 It is not blank
+Second line
